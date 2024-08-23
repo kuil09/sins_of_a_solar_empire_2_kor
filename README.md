@@ -7,5 +7,5 @@
 localized_text > ko.localized_text 파일을 찾아서 본 레포지터리에서 제공하는 ko.localized_text 대체해 주시면 됩니다.
 
 # 기여하는 법
-- fork 후 PR
+- PR
 - Issue 등록
