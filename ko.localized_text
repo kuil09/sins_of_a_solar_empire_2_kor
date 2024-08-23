@@ -955,7 +955,7 @@
     "auto_add_first_fleet_button.desc": "게임이 시작될 때 첫 번째 함대가 자동으로 추가됩니다.",
     "auto_add_first_fleet_button.name": "자동 추가 제1 함대",
     "auto_order_mode.engage_any_targets.description": "함선은 중력권 내의 모든 적 목표를 공격할 것입니다.",
-    "auto_order_mode.engage_any_targets.name": "어디서나 참여하세요",
+    "auto_order_mode.engage_any_targets.name": "전체",
     "auto_order_mode.engage_only_targets_within_range.description": "함선은 가까운 적 목표물만 공격하며 너무 멀리 이동하면 교전을 중단하고 돌아옵니다.",
     "auto_order_mode.engage_only_targets_within_range.name": "교전 시작",
     "auto_order_mode.hold_position.description": "함선은 사정거리 내에 있고 이동이 필요하지 않은 경우에만 적 목표를 공격합니다.",
