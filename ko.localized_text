@@ -4131,7 +4131,7 @@
     "tooltip.player_name_postfix.friendly_ships": " 우주선",
     "tooltip.player_name_postfix.phase_lane_unit_group": " 우주선",
     "tooltip.potential_loot_collectors_header": "수집가들:",
-    "tooltip.price_label": "프라이스",
+    "tooltip.price_label": "가격",
     "tooltip.quick_scuttle_when_building_structure": "[CTRL + 오른쪽 클릭하여 자폭]",
     "tooltip.raid_reward_supply_label": "공급 습격",
     "tooltip.rate_per_minute_postfix": " /분",
