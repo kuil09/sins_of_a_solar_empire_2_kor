@@ -4336,7 +4336,7 @@
     "tooltip.upgrade_planet_track.structure_builder_count_label": "맥스 구조 건설자",
     "tooltip.upgrade_planet_track.upgrade_progress": "업그레이드 진행 상황:",
     "tooltip.upgrade_surveying_track_bonus_exotics_header_label": "보너스 희소자원 기회",
-    "tooltip.upgrade_surveying_track_guaranteed_exotics_header_label": "보장된 희소자원들:",
+    "tooltip.upgrade_surveying_track_guaranteed_exotics_header_label": "확보된 희소자원들:",
     "tooltip.upgrade_surveying_track_reward_assets_label": "자산",
     "tooltip.upgrade_surveying_track_reward_chances_header_label": "발견 확률:",
     "tooltip.upgrade_surveying_track_reward_unit_items_label": "아이템",
