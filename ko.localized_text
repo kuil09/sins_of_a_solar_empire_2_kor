@@ -4698,7 +4698,7 @@
     "trader_mining_track_metal_rate_1_research_subject_name": "고효율 심부 광석 추출 기술",
     "trader_mining_track_metal_rate_1_research_subject_name_uppercase": "고효율 심부 광석 추출 기술",
     "trader_missile_armor_damage_reduction_label": "미사일 선체 손상 방지됨",
-    "trader_missile_armor_unit_item_description": "추가 장갑을 추가하지만 선체에 가해지는 미사일 피해를 크게 줄입니다.",
+    "trader_missile_armor_unit_item_description": "추가 장갑을 더해 선체에 가해지는 미사일 피해를 크게 줄입니다.",
     "trader_missile_armor_unit_item_name": "반응 장갑",
     "trader_missile_battery_frigate_description": "정지 무기 플랫폼은 미사일과 점 방어 시스템을 갖추고 있습니다.",
     "trader_missile_battery_frigate_name": "미사일 배터리",
