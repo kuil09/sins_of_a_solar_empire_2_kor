@@ -5657,7 +5657,7 @@
     "unit_modifier.hyperspace_speed": "페이즈 점프 속도",
     "unit_modifier.loot_collection_duration": "유기물 포획 시간",
     "unit_modifier.max_angular_speed": "최대 회전 속도",
-    "unit_modifier.max_antimatter": "맥스 앤티매터",
+    "unit_modifier.max_antimatter": "최대 반물질",
     "unit_modifier.max_armor_points": "맥스 아머 포인트",
     "unit_modifier.max_hull_points": "최대 선체 포인트",
     "unit_modifier.max_linear_acceleration": "최대 가속도",
