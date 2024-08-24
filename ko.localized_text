@@ -2285,7 +2285,7 @@
     "planet_modifier.civilian_research_rate": "민간 연구 속도",
     "planet_modifier.commerce_track_build_price": "상업 업그레이드 가격",
     "planet_modifier.commerce_track_build_time": "상업 업그레이드 건설 시간",
-    "planet_modifier.commerce_track_credit_income_rate": "상업 신용 수입률",
+    "planet_modifier.commerce_track_credit_income_rate": "상업 크레딧 수입률",
     "planet_modifier.crystal_extraction_rate": "표면 채굴 속도 (크리스탈)",
     "planet_modifier.culture_rate": "문화 등급",
     "planet_modifier.culture_resistance_rate": "컬처 레지스턴스",
