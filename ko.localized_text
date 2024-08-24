@@ -3897,7 +3897,7 @@
     "tooltip.is_wide_move_enabled_toggle_on_line": "[ALT를 눌러 넓은 대형으로 이동]",
     "tooltip.item_building_waiting_for_out_of_combat_line": "전투 종료 대기 중",
     "tooltip.item_building_waiting_for_planet_level": "행성 레벨을 기다리는 중.",
-    "tooltip.item_max_count_on_unit_label": "맥스 카운트",
+    "tooltip.item_max_count_on_unit_label": "최대 보유수",
     "tooltip.item_prerequisites_mutually_exclusive_items_line_begin_text": "결합할 수 없음:",
     "tooltip.item_stack_count": "용도:",
     "tooltip.last_reputation_level_provides_full_detection_of_home_planet_line": "고향 행성의 비전을 제공합니다",
