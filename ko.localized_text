@@ -1637,7 +1637,7 @@
     "input_action.increase_time_scale.description": "",
     "input_action.increase_time_scale.name": "시간 척도 증가",
     "input_action.launch_units.description": "모든 공격기를 발진합니다.",
-    "input_action.launch_units.name": "발사",
+    "input_action.launch_units.name": "출격",
     "input_action.leave_fleet.description": "현재 선택된 함선으로 함대를 떠나십시오.",
     "input_action.leave_fleet.name": "리브 플릿",
     "input_action.move_in_formation.description": "함대와 함께 이동 및 페이즈 점프를 수행하십시오. 다른 함선을 기다린 후 점프하기 때문에 속도가 느려지지만, 모든 함선이 함께 도착할 것입니다.",
