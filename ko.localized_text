@@ -1643,7 +1643,7 @@
     "input_action.move_in_formation.description": "함대와 함께 이동 및 페이즈 점프를 수행하십시오. 다른 함선을 기다린 후 점프하기 때문에 속도가 느려지지만, 모든 함선이 함께 도착할 것입니다.",
     "input_action.move_in_formation.name": "대형 유지 이동",
     "input_action.move_not_in_formation.description": "유닛을 가능한 한 빨리 이동시키고 페이즈 점프하십시오.",
-    "input_action.move_not_in_formation.name": "빨리 움직여",
+    "input_action.move_not_in_formation.name": "이동",
     "input_action.move_units.description": "목표 또는 위치로 이동하십시오.",
     "input_action.move_units.name": "이동",
     "input_action.open_chat_entry.description": "오픈 채팅 항목 설명",
