@@ -942,7 +942,7 @@
     "ai_difficulty.description.unfair": "어려운 난이도에 도전하지 않는 사람들을 위한 레벨.",
     "ai_difficulty.name.easy": "쉬움",
     "ai_difficulty.name.hard": "어려움",
-    "ai_difficulty.name.impossible": "임파서블",
+    "ai_difficulty.name.impossible": "불가능",
     "ai_difficulty.name.medium": "보통",
     "ai_difficulty.name.nightmare": "악몽",
     "ai_difficulty.name.unfair": "불공평",
