@@ -2805,7 +2805,7 @@
     "player_statistic_type_name.metal_income_rate_from_planet_tracks": "플래닛 인컴",
     "player_statistic_type_name.metal_income_rate_from_trade_ports": "무역 항구 수입",
     "player_statistic_type_name.metal_received_from_alliance_offers": "동맹으로부터",
-    "player_statistic_type_name.metal_sold_on_npc_market": "금속 솔드",
+    "player_statistic_type_name.metal_sold_on_npc_market": "금속 판매됨",
     "player_statistic_type_name.metal_spent_on_alliance_offers": "동맹에게",
     "player_statistic_type_name.metal_tax_rate": "인프라 비용",
     "player_statistic_type_name.metal_total_accumulated": "총 누적",
