@@ -5516,7 +5516,7 @@
     "tutorial_structures.start_rotate_structure_plate": "행성의 궤도로 인해 변화하는 페이즈 레인에 적응하기 위해 궤도 구조물을 이동할 수도 있습니다. 고급 행성 메뉴에서 구조물 회전 버튼을 클릭하세요.",
     "tutorial_trigger.activate_rotate_structure_plate": "구조 회전",
     "tutorial_trigger.auto_place_gauss_defense": "오토-플레이스 3 가우스 방어 구조물",
-    "tutorial_trigger.build_antifighter_frigates": "{} Garda Flak Frigates를 건설하세요",
+    "tutorial_trigger.build_antifighter_frigates": "{} 가르다 플락 호위함를 건설하세요",
     "tutorial_trigger.build_capital_ship": "모든 주력함을 건조하십시오",
     "tutorial_trigger.build_exotics_refinery": "이국 정제소를 건설하여 계속 진행하십시오.",
     "tutorial_trigger.build_light_frigates": "{} Cobalt Light Frigates를 건설하세요",
