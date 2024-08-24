@@ -1525,7 +1525,7 @@
     "hud_colonized_planets_window.title": "식민 행성들",
     "hud_empire_units_window.capital_ship_abilities_label": "능력",
     "hud_empire_units_window.capital_ship_items_label": "함선 항목",
-    "hud_empire_units_window.capital_ship_view_button": "캐피탈 쉽스",
+    "hud_empire_units_window.capital_ship_view_button": "주력함",
     "hud_empire_units_window.starbase_items_label": "스타베이스 아이템",
     "hud_empire_units_window.starbase_planet_label": "행성",
     "hud_empire_units_window.starbase_view_button": "스타베이스",
