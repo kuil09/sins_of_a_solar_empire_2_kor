@@ -1358,7 +1358,7 @@
     "front_end_top_bar_multi_player_login_status_value_logged_out": "로그인되지 않음",
     "front_end_top_bar_multi_player_login_status_value_logging_in": "로그인 중...",
     "front_end_top_bar_single_player_button": "싱글 플레이어",
-    "front_end_top_bar_watching_button": "리플레이즈",
+    "front_end_top_bar_watching_button": "리플레이",
     "game_client_notification.alliance_broken": "얼라이언스 브로큰",
     "game_client_notification.alliance_offer_accepted": "제안 수락됨",
     "game_client_notification.alliance_offer_declined": "제안 거절됨",
